@@ -1,4 +1,23 @@
 # Getting Started with Create React App
+Ejercicio 6
+Para estos ejercicios deberás realizar los mismos que en la fase 1 pero utilizando ReactJS.
+
+
+Ejercicio 6. Maqueta la parte de formulario de Candidato:
+
+
+Link a la imagen
+
+
+Notas importantes:
+
+
+
+Los select deben funcionar con datos de ejemplo.
+
+Puedes coger cualquier foto.
+
+Omite la funcionalidad de etiquetas.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
